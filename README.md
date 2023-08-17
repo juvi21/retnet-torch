@@ -23,7 +23,7 @@ pip install retnet-torch
 **SEE:** [demo.ipynb](demo.ipynb)
 ```python
 import torch
-from retnet_torch.ret_net import CausalRetNet
+from retnet_torch.retnet import CausalRetNet
 
 # Initialize model
 model = CausalRetNet(dim=24, vocab_size=8, num_layers=6, num_heads=6, dropout=0.5)

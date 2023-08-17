@@ -11,6 +11,10 @@ Strongly typed sub 200-line implementation of the Paper "Retentive Network: A Su
 - [ ] Refactor parts of retnet.py
 
 ## How to install
+Git:
+```bash
+git clone https://github.com/juvi21/retnet-torch.git
+```
 PyPi:
 ```bash
 pip install retnet-torch

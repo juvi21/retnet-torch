@@ -8,7 +8,7 @@ Strongly typed sub 200-line implementation of the Paper "Retentive Network: A Su
 - [ ] Better How to use section
 - [ ] Better README
 - [ ] Unittests
-- [ ] Refactor parts of retnet
+- [ ] Refactor parts of retnet.py
 
 ## How to install
 PyPi:

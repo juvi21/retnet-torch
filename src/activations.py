@@ -9,9 +9,6 @@ ACTIVATION_LAYERS = {
 DEFAULT_ACTIVATION = 'gelu'
 
 def get_activation_fn(activation: str = DEFAULT_ACTIVATION):
-    """
-    Returns the activation function module based on the provided string.
-    """
     if isinstance(activation, str):
         return ACTIVATION_LAYERS.get(activation, GELU)()
     return activation

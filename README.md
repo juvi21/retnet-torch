@@ -2,7 +2,7 @@
 Strongly typed sub 200-line implementation of the Paper "Retentive Network: A Successor to Transformer for Large Language Models" in Pytorch. https://arxiv.org/pdf/2307.08621.pdf
 <p align="left"> <img src="assets/RetNet.png"></p>
 
-**NOTE:** Currenty the repo is experimental
+**NOTE:** Currenty this repo is experimental. I think everything should be right but further testing needs to be done.
 
 ## ToDo
 - [ ] Better How to use section
